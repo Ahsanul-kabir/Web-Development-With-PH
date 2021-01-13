@@ -17,3 +17,4 @@ Here, I added all day materials links.
 ### web-day-12-project-panda-commerce: https://github.com/Ahsanul-kabir/web-day-12-project-panda-commerce
 ## live : https://ahsanul-kabir.github.io/panda-commerce-bootstarp/index.html
 ### web-day-13-Revision Day
+### web-day-14-Assignment-penguin-fashion-shoes: https://github.com/Ahsanul-kabir/web-day-14-Assignment-penguin-fashion-shoes
