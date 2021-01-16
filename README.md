@@ -22,3 +22,4 @@ Here, I added all day materials links.
 ### web-day-14.2-Assignment-penguin-fashion-shoes: https://github.com/Ahsanul-kabir/web-day-14-Assignment-penguin-fashion-shoes
 ## live : https://ahsanul-kabir.github.io/web-day-14-Assignment-penguin-fashion-shoes/
 ### web-day-15-bootstarp-bonus: https://github.com/Ahsanul-kabir/web-day-15-bootstarp-bonus
+### web-day-16-javascript: https://github.com/Ahsanul-kabir/web-day-16-javascript
