@@ -24,3 +24,4 @@ Here, I added all day materials links.
 ### web-day-15-bootstarp-bonus: https://github.com/Ahsanul-kabir/web-day-15-bootstarp-bonus
 ### web-day-16-javascript: https://github.com/Ahsanul-kabir/web-day-16-javascript
 ### web-day-17-javascript: https://github.com/Ahsanul-kabir/web-day-17-javascript
+### web-day-18-javascript: https://github.com/Ahsanul-kabir/web-day-18-javascript
