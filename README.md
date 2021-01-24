@@ -29,3 +29,5 @@ Here, I added all day materials links.
 ### web-day-20-javascript-problem-solving: https://github.com/Ahsanul-kabir/web-day-20-javascript-problem-solving
 ### web-day-21-javascript-practice-basic: https://github.com/Ahsanul-kabir/web-day-21-javascript-practice-basic
 ### web-day-22-Assignment-javascript: https://github.com/Ahsanul-kabir/web-day-22-Assignment-javascript
+### web-day-23-javascript-bonus: https://github.com/Ahsanul-kabir/web-day-23-javascript-bonus
+
