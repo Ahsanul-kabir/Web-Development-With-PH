@@ -33,4 +33,5 @@ Here, I added all day materials links.
 ### web-day-24-javascript-work-and-DOM: https://github.com/Ahsanul-kabir/web-day-24-javascript-work-and-DOM
 ### web-day-25-javascript-function-addEventListener-Event bubble: https://github.com/Ahsanul-kabir/web-day-25-javascript-function-addEventListener-Event-bubble
 ### web-day-26-javascript-project-bank-website: https://github.com/Ahsanul-kabir/web-day-26-javascript-project-bank-website
+### web-day-27-javascript-project-shopping-cart-practice: https://github.com/Ahsanul-kabir/web-day-27-javascript-project-shopping-cart-practice
 
