@@ -37,4 +37,6 @@ Here, I added all day materials links.
 ### web-day-27-javascript-project-shopping-cart-practice: https://github.com/Ahsanul-kabir/web-day-27-javascript-project-shopping-cart-practice
 ### web-day-28-javascript-Rvisit-and-shopping-cart-website: https://github.com/Ahsanul-kabir/web-day-28-javascript-Rvisit-and-shopping-cart-website
 ## live : https://ahsanul-kabir.github.io/web-day-28-javascript-Rvisit-and-shopping-cart-website/9-10-11.%20full%20stucture.html
+### Dekkha hoy ni dek te hobe
+### web-day-30-Assignment-discover-fly: https://github.com/Ahsanul-kabir/web-day-30-Assignment-discover-fly
 
