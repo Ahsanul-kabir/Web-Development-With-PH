@@ -40,4 +40,4 @@ Here, I added all day materials links.
 ### Dekkha hoy ni dek te hobe
 ### web-day-30-Assignment-discover-fly: https://github.com/Ahsanul-kabir/web-day-30-Assignment-discover-fly
 ## live : https://ahsanul-kabir.github.io/web-day-30-Assignment-discover-fly/
-
+### web-day-31-javascript-bonus: https://github.com/Ahsanul-kabir/web-day-31-javascript-bonus
