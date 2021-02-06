@@ -46,3 +46,4 @@ Here, I added all day materials links.
 ### web-day-33-intermediate-javascript-and-interview-question: https://github.com/Ahsanul-kabir/web-day-33-intermediate-javascript-and-interview-question
 ### web-day-34-api-jason-server-data-load-dynamic-website-http: https://github.com/Ahsanul-kabir/web-day-34-api-jason-server-data-load-dynamic-website-http
 ### web-day-35-api-practice-problem: https://github.com/Ahsanul-kabir/web-day-35-api-practice-problem
+### web-day-36-javascript-object-mastering-interview-question: https://github.com/Ahsanul-kabir/web-day-36-javascript-object-mastering-interview-question
