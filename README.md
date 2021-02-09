@@ -51,3 +51,4 @@ Here, I added all day materials links.
 ### web-day-37-try-create-react-app-make-sure-it-works: https://github.com/Ahsanul-kabir/web-day-37-try-create-react-app-make-sure-it-works
 ### web-day-38-Assignment-hungry-monster: https://github.com/Ahsanul-kabir/web-day-38-Assignment-hungry-monster
 ## live : https://ahsanul-kabir.github.io/web-day-38-Assignment-hungry-monster/
+### web-day-39-explore-music-api-hard-rock: https://github.com/Ahsanul-kabir/web-day-39-explore-music-api-hard-rock
