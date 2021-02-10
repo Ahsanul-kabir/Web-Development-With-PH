@@ -52,3 +52,4 @@ Here, I added all day materials links.
 ### web-day-38-Assignment-hungry-monster: https://github.com/Ahsanul-kabir/web-day-38-Assignment-hungry-monster
 ## live : https://ahsanul-kabir.github.io/web-day-38-Assignment-hungry-monster/
 ### web-day-39-explore-music-api-hard-rock: https://github.com/Ahsanul-kabir/web-day-39-explore-music-api-hard-rock
+### web-day-40-how-browser-works-browser-api-and -methods: https://github.com/Ahsanul-kabir/web-day-40-how-browser-works-browser-api-and--methods
