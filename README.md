@@ -56,3 +56,4 @@ Here, I added all day materials links.
 ### web-day-41-javascript-debug-web-debug-dev-tool-mastering: https://github.com/Ahsanul-kabir/web-day-41-javascript-debug-web-debug-dev-tool-mastering
 Dekha hoy ni-- day 42
 ### web-day-43-debugging-dev-tool-and-bug-fixing-practice: https://github.com/Ahsanul-kabir/web-day-43-debugging-dev-tool-and-bug-fixing-practice
+### web-day-44-Assignment-Fancy-slider-debug: https://github.com/Ahsanul-kabir/web-day-44-Assignment-Fancy-slider-debug
