@@ -54,4 +54,4 @@ Here, I added all day materials links.
 ### web-day-39-explore-music-api-hard-rock: https://github.com/Ahsanul-kabir/web-day-39-explore-music-api-hard-rock
 ### web-day-40-how-browser-works-browser-api-and -methods: https://github.com/Ahsanul-kabir/web-day-40-how-browser-works-browser-api-and--methods
 ### web-day-41-javascript-debug-web-debug-dev-tool-mastering: https://github.com/Ahsanul-kabir/web-day-41-javascript-debug-web-debug-dev-tool-mastering
-### web-day-42-debugging-dev-tool-and-bug-fixing-practice: https://github.com/Ahsanul-kabir/web-day-42-debugging-dev-tool-and-bug-fixing-practice
+### web-day-43-debugging-dev-tool-and-bug-fixing-practice: https://github.com/Ahsanul-kabir/web-day-43-debugging-dev-tool-and-bug-fixing-practice
