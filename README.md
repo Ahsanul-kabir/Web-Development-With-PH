@@ -60,3 +60,4 @@ Dekha hoy ni-- day 42
 ## live : https://ahsanul-kabir.github.io/web-day-44-Assignment-Fancy-slider-debug/
 ### web-day-45-javascript-you-need-to-know-for-react: https://github.com/Ahsanul-kabir/web-day-45-javascript-you-need-to-know-for-react
 ### web-day-46-mordern-front-end-core-concept: https://github.com/Ahsanul-kabir/web-day-46-mordern-front-end-core-concept
+### web-day-47-react-core-concepts-jsx-props-state: https://github.com/Ahsanul-kabir/web-day-47-react-core-concepts-jsx-props-state
