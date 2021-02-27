@@ -62,3 +62,4 @@ Dekha hoy ni-- day 42
 ### web-day-46-mordern-front-end-core-concept: https://github.com/Ahsanul-kabir/web-day-46-mordern-front-end-core-concept
 ### web-day-47-react-core-concepts-jsx-props-state: https://github.com/Ahsanul-kabir/web-day-47-react-core-concepts-jsx-props-state
 ### web-day-48-how-react-works-recap-react-concepts: https://github.com/Ahsanul-kabir/web-day-48-how-react-works-recap-react-concepts
+### web-day-49-practice: https://github.com/Ahsanul-kabir/web-day-49-practice
