@@ -58,3 +58,4 @@ Dekha hoy ni-- day 42
 ### web-day-43-debugging-dev-tool-and-bug-fixing-practice: https://github.com/Ahsanul-kabir/web-day-43-debugging-dev-tool-and-bug-fixing-practice
 ### web-day-44-Assignment-Fancy-slider-debug: https://github.com/Ahsanul-kabir/web-day-44-Assignment-Fancy-slider-debug
 ## live : https://ahsanul-kabir.github.io/web-day-44-Assignment-Fancy-slider-debug/
+### web-day-45-javascript-you-need-to-know-for-react: https://github.com/Ahsanul-kabir/web-day-45-javascript-you-need-to-know-for-react
