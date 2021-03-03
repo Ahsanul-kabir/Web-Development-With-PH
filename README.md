@@ -63,3 +63,4 @@ Dekha hoy ni-- day 42
 ### web-day-47-react-core-concepts-jsx-props-state: https://github.com/Ahsanul-kabir/web-day-47-react-core-concepts-jsx-props-state
 ### web-day-48-how-react-works-recap-react-concepts: https://github.com/Ahsanul-kabir/web-day-48-how-react-works-recap-react-concepts
 ### web-day-49-practice: https://github.com/Ahsanul-kabir/web-day-49-practice
+### web-day-50-simple-react-spa-with-multiple-components-ema-jhon: https://github.com/Ahsanul-kabir/web-day-50-simple-react-SPA-with-multiple-components-ema-jhon
