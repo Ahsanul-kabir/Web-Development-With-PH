@@ -64,3 +64,4 @@ Dekha hoy ni-- day 42
 ### web-day-48-how-react-works-recap-react-concepts: https://github.com/Ahsanul-kabir/web-day-48-how-react-works-recap-react-concepts
 ### web-day-49-practice: https://github.com/Ahsanul-kabir/web-day-49-practice
 ### web-day-50-simple-react-spa-with-multiple-components-ema-jhon: https://github.com/Ahsanul-kabir/web-day-50-simple-react-SPA-with-multiple-components-ema-jhon
+### web-day-51-simple-react-SPA-practice-ultra-nation: https://github.com/Ahsanul-kabir/web-day-51-simple-react-SPA-practice-ultra-nation
