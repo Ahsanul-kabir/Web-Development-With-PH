@@ -65,3 +65,4 @@ Dekha hoy ni-- day 42
 ### web-day-49-practice: https://github.com/Ahsanul-kabir/web-day-49-practice
 ### web-day-50-simple-react-spa-with-multiple-components-ema-jhon: https://github.com/Ahsanul-kabir/web-day-50-simple-react-SPA-with-multiple-components-ema-jhon
 ### web-day-51-simple-react-SPA-practice-ultra-nation: https://github.com/Ahsanul-kabir/web-day-51-simple-react-SPA-practice-ultra-nation
+### web-day-52-Assignment-cricker-league: https://github.com/Porgramming-Hero-web-course/simple-react-Ahsanul-kabir
