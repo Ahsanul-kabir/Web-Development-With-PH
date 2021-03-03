@@ -54,7 +54,7 @@ Here, I added all day materials links.
 ### web-day-39-explore-music-api-hard-rock: https://github.com/Ahsanul-kabir/web-day-39-explore-music-api-hard-rock
 ### web-day-40-how-browser-works-browser-api-and -methods: https://github.com/Ahsanul-kabir/web-day-40-how-browser-works-browser-api-and--methods
 ### web-day-41-javascript-debug-web-debug-dev-tool-mastering: https://github.com/Ahsanul-kabir/web-day-41-javascript-debug-web-debug-dev-tool-mastering
-Dekha hoy ni-- day 42
+### Dekha hoy ni-- day 42
 ### web-day-43-debugging-dev-tool-and-bug-fixing-practice: https://github.com/Ahsanul-kabir/web-day-43-debugging-dev-tool-and-bug-fixing-practice
 ### web-day-44-Assignment-Fancy-slider-debug: https://github.com/Ahsanul-kabir/web-day-44-Assignment-Fancy-slider-debug
 ## live : https://ahsanul-kabir.github.io/web-day-44-Assignment-Fancy-slider-debug/
@@ -66,3 +66,4 @@ Dekha hoy ni-- day 42
 ### web-day-50-simple-react-spa-with-multiple-components-ema-jhon: https://github.com/Ahsanul-kabir/web-day-50-simple-react-SPA-with-multiple-components-ema-jhon
 ### web-day-51-simple-react-SPA-practice-ultra-nation: https://github.com/Ahsanul-kabir/web-day-51-simple-react-SPA-practice-ultra-nation
 ### web-day-52-Assignment-cricker-league: https://github.com/Porgramming-Hero-web-course/simple-react-Ahsanul-kabir
+### live : https://friendly-wilson-0585c4.netlify.app/
