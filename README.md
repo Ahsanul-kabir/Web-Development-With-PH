@@ -68,4 +68,5 @@ Here, I added all day materials links.
 ### web-day-52-Assignment-cricker-league: https://github.com/Porgramming-Hero-web-course/simple-react-Ahsanul-kabir
 ## live : https://friendly-wilson-0585c4.netlify.app/
 ### web-day-53-simple-react-bonus: https://github.com/Ahsanul-kabir/web-day-53-simple-react-bonus
-### web-day-54-react-bootstarp-material-ui-axios-rechart: https://github.com/Ahsanul-kabir/web-day-54-react-bootstarp-material-ui-axios-rechart1
+### web-day-54-react-bootstarp-material-ui-axios-rechart-1: https://github.com/Ahsanul-kabir/web-day-54-react-bootstarp-material-ui-axios-rechart
+### web-day-54-react-bootstarp-material-ui-axios-rechart-2: https://github.com/Ahsanul-kabir/web-day-54-react-bootstarp-material-ui-axios-rechart1
